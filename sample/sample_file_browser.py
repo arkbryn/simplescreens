@@ -1,15 +1,7 @@
 import sys
 from os import listdir
 from os.path import isfile, join
-
-import simplescreens
-
-
-
 from simplescreens import *
-
-
-#onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 def get_folder_or_file_details (params: dict) -> tuple:
     file_or_folder = params['title']
