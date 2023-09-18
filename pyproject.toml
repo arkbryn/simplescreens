@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "simplescreens"
-version = "0.1.1"
+version = "0.1.2"
 authors = [
-  { name="Arkaduysz Bryndza", email="arbryn@gmail.com" },
+  { name="Arkadiusz Bryndza", email="arkbryn@gmail.com" },
 ]
 description = "Simple text-based UI (text screens) used for tree-like data browsing"
 readme = "README.md"
